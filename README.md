@@ -15,11 +15,6 @@ O sistema aborda os seguintes módulos:
 - Controle de Entrega e Montagem
 
 # Tecnologias
-<div>
-  <a href="https://react.dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" target="_blank"></a>
-  <a href="https://www.oracle.com/java/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" target="_blank"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
-</div>
 - Front-End: React, Ant Design, TypeScript
 - Back-End: Java, Spring Boot, Hibernate
 - Banco de Dados: PostgreSQL
