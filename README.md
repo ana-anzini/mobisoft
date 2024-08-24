@@ -24,6 +24,9 @@ O sistema aborda os seguintes módulos:
 - Back-end: [Repositório do Backend](https://github.com/ana-anzini/mobisoft-backend)
 - Front-end: [Repositório do Frontend](https://github.com/ana-anzini/mobisoft-frontend)
 
+# Kanban
+O kanban está disponível em: [Kanban](https://anabeanzini.atlassian.net/jira/software/projects/KAN/boards/1)
+
 # Documentação
 A documentação está disponível para ser visualizada em: [Documentação do Projeto](https://catolicasc-my.sharepoint.com/:w:/g/personal/ana_anzini_catolicasc_edu_br/ESXxP1-_-n9DuvIhLMQy0rgBEmPmxebeYMRWTN0dDt88dQ?e=X06Qpt)
 
