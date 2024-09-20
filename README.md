@@ -27,6 +27,9 @@ O sistema aborda os seguintes módulos:
 # Kanban
 O kanban está disponível em: [Kanban](https://anabeanzini.atlassian.net/jira/software/projects/KAN/boards/1)
 
+# Protótipo
+O rascunho do protótipo está disponível em: [Figma](https://www.figma.com/design/21McOj3f2KTMBTQmehgPtr/Prot%C3%B3tipo---Rascunho?node-id=0-1&t=EmNTTaIUKfXBmQ17-1)
+
 # Documentação
 A documentação está disponível para ser visualizada em: [Documentação do Projeto](https://catolicasc-my.sharepoint.com/:w:/g/personal/ana_anzini_catolicasc_edu_br/ESXxP1-_-n9DuvIhLMQy0rgBEmPmxebeYMRWTN0dDt88dQ?e=X06Qpt)
 
