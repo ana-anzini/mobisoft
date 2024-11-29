@@ -1,5 +1,5 @@
 # MobiSoft
-Projeto voltado a controle de alguns processos de uma empresa especializada em móveis sob medida, visando simplificar e otimizar suas operações. O projeto Mobisoft surge em meio à necessidade de controlar os projetos de móveis sob medida. O Mobisoft visa atender essa demanda oferecendo uma gestão auxiliar para uma empresa específica, cobrindo desde administração de projetos a entregas dos móveis para assim, simplificar operações, aumentar produtividade e aprimorar processos.
+O projeto Mobisoft é uma solução desenvolvida para gerenciar processos de uma empresa especializada em móveis sob medida. Com o objetivo de simplificar e otimizar as operações, o Mobisoft atende à necessidade de controlar projetos personalizados.
 
 # Objetivos
 Esse software tem como objetivo desenvolver um sistema para o gerenciamento de projetos de móveis sob medida, permitindo um controle mais preciso desde o planejamento até a execução e entrega. 
