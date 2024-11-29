@@ -2,23 +2,36 @@
 Projeto voltado a controle de alguns processos de uma empresa especializada em móveis sob medida, visando simplificar e otimizar suas operações. O projeto Mobisoft surge em meio à necessidade de controlar os projetos de móveis sob medida. O Mobisoft visa atender essa demanda oferecendo uma gestão auxiliar para uma empresa específica, cobrindo desde administração de projetos a entregas dos móveis para assim, simplificar operações, aumentar produtividade e aprimorar processos.
 
 # Objetivos
-Desenvolver um sistema para o gerenciamento de projetos de móveis sob medida, permitindo um controle mais preciso desde o planejamento até a execução e entrega. 
+Esse software tem como objetivo desenvolver um sistema para o gerenciamento de projetos de móveis sob medida, permitindo um controle mais preciso desde o planejamento até a execução e entrega. 
 Dessa forma, busca-se alcançar os seguintes objetivos específicos: 
-a) Otimizar o uso de recursos: Melhorar a alocação de materiais, mão de obra e tempo para reduzir desperdícios. <br>
-b) Gerenciar Contas a Receber: Controlar e monitorar contas a receber, garantindo uma gestão financeira mais organizada. <br>
+a) Criação do projeto (orçamento) para impressão: Geração do orçamento para envio do cliente. <br>
+b) Otimizar o uso de recursos: Melhorar a alocação de materiais, mão de obra e tempo para reduzir desperdícios. <br>
 c) Controle de clientes: Efetuar um gerenciamento das informações de clientes, consolidando-as em um único local seguro e acessível. <br>
 
 # Módulos
 O sistema aborda os seguintes módulos: 
-- Controle de Projetos de Móveis e Orçamento 
-- Cadastros de Clientes e Funcionários
-- Controle de Entrega e Montagem
+- Controle de Projetos de Móveis (Orçamento) 
+- Cadastros de Fornecedores, Categorias, Produtos, Colaboradores e Clientes
+- Área de Administração
+
+# Links
+- [Aplicação](https://mobisoft.site/)
+- [Documentação no Swagger](https://mobisoft.site/api/swagger-ui/index.html)
+- [Monitoramento do Front-End](https://sonarcloud.io/project/overview?id=ana-anzini_mobisoft-frontend)
+- [Monitoramento do Back-End](https://sonarcloud.io/project/overview?id=ana-anzini_mobisoft-backend)
+- [Grafana](http://54.160.179.69:3000/d/OS7-NUiGz/spring-boot-statistics-and-endpoint-metrics?orgId=1&refresh=10s) (Login e Senha: mobisoft123)
 
 # Tecnologias
-- Front-End: React, Ant Design, TypeScript
-- Back-End: Java, Spring Boot, Hibernate
-- Banco de Dados: PostgreSQL
-- Nuvem: AWS
+- Front-End: React, Ant Design, TypeScript, Axios, Moment.js, JEST, Testing Library e Babel.
+- Back-End: Java, Spring Boot, JUnit, Mockito, JWT.
+- Virtualização: Docker.
+- Banco de Dados: PostgreSQL.
+- Cloud: AWS.
+
+# Ferramentas
+- Monitoramento: Prometheus e Grafana.
+- Revisão de Código: SonarCloud
+- CI/CD: SonarCloud Quality Gate / Github Actions
 
 # Repositórios
 - Back-end: [Repositório do Backend](https://github.com/ana-anzini/mobisoft-backend)
