@@ -7,9 +7,9 @@ O projeto Mobisoft é uma solução desenvolvida para gerenciar processos de uma
 # Objetivos
 Esse software tem como objetivo desenvolver um sistema para o gerenciamento de projetos de móveis sob medida, permitindo um controle mais preciso desde o planejamento até a execução e entrega. 
 Dessa forma, busca-se alcançar os seguintes objetivos específicos: 
-a) Criação do projeto (orçamento) para impressão: Geração do orçamento para envio do cliente. <br>
-b) Otimizar o uso de recursos: Melhorar a alocação de materiais, mão de obra e tempo para reduzir desperdícios. <br>
-c) Controle de clientes: Efetuar um gerenciamento das informações de clientes, consolidando-as em um único local seguro e acessível. <br>
+<p>a) Criação do projeto (orçamento) para impressão: Geração do orçamento para envio do cliente.</p>
+<p>b) Otimizar o uso de recursos: Melhorar a alocação de materiais, mão de obra e tempo para reduzir desperdícios.</p>
+<p>c) Controle de clientes: Efetuar um gerenciamento das informações de clientes, consolidando-as em um único local seguro e acessível.</p>
 
 # Módulos
 O sistema aborda os seguintes módulos: 
