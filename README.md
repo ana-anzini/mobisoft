@@ -47,5 +47,5 @@ O kanban está disponível em: [Kanban](https://anabeanzini.atlassian.net/jira/s
 O rascunho do protótipo está disponível em: [Figma](https://www.figma.com/design/21McOj3f2KTMBTQmehgPtr/Prot%C3%B3tipo---Rascunho?node-id=0-1&t=EmNTTaIUKfXBmQ17-1)
 
 # Documentação
-A documentação e diagramas estão disponíveis para serem visualizados em: [Documentação do Projeto](https://catolicasc-my.sharepoint.com/:w:/g/personal/ana_anzini_catolicasc_edu_br/ESXxP1-_-n9DuvIhLMQy0rgBEmPmxebeYMRWTN0dDt88dQ?e=X06Qpt)
+A documentação e diagramas estão disponíveis para serem visualizados em: [Documentação do Projeto](https://catolicasc-my.sharepoint.com/:w:/g/personal/ana_anzini_catolicasc_edu_br/ESXxP1-_-n9DuvIhLMQy0rgBEmPmxebeYMRWTN0dDt88dQ?e=74d2SI)
 
