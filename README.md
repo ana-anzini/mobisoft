@@ -22,7 +22,7 @@ O sistema aborda os seguintes módulos:
 - [Documentação no Swagger](https://mobisoft.site/api/swagger-ui/index.html)
 - [Monitoramento do Front-End](https://sonarcloud.io/project/overview?id=ana-anzini_mobisoft-frontend)
 - [Monitoramento do Back-End](https://sonarcloud.io/project/overview?id=ana-anzini_mobisoft-backend)
-- [Grafana](http://54.160.179.69:3000/d/OS7-NUiGz/spring-boot-statistics-and-endpoint-metrics?orgId=1&refresh=10s) (Login e Senha: mobisoft123)
+- [Grafana](http://54.160.179.69:3000/d/OS7-NUiGz/spring-boot-statistics-and-endpoint-metrics?orgId=1&refresh=10s) (Login: admin / Senha: mobisoft123)
 
 # Tecnologias
 - Front-End: React, Ant Design, TypeScript, Axios, Moment.js, JEST, Testing Library e Babel.
