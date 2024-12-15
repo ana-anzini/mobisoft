@@ -36,6 +36,9 @@ O sistema aborda os seguintes módulos:
 - Revisão de Código: SonarCloud
 - CI/CD: SonarCloud Quality Gate / Github Actions
 
+# Arquitetura
+O projeto utiliza uma infraestrutura distribuída e integrada, combinando serviços da AWS, DockerHub, GitHub Actions e Render. A aplicação é executada em uma instância EC2 da AWS, onde o container, gerado a partir de uma imagem armazenada no DockerHub, processa as requisições. A pipeline de integração contínua foi configurado com GitHub Actions, permitindo a automação do build da imagem Docker e sua publicação no DockerHub. Após essa etapa, o deploy é realizado automaticamente na instância EC2. O banco de dados foi configurado no Render.
+
 # Repositórios
 - Back-end: [Repositório do Backend](https://github.com/ana-anzini/mobisoft-backend)
 - Front-end: [Repositório do Frontend](https://github.com/ana-anzini/mobisoft-frontend)
